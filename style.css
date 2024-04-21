@@ -12,7 +12,6 @@ body {
 }
 header {
     background-color: #333;
-    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -51,12 +50,11 @@ header {
 }
 header {
     background-color: #333;
-    color: #fff;
     padding: 20px;
     text-align: center;
 }
 nav {
-    background-color: #444;
+    background-color: black;
     padding: 10px 0;
     text-align: end;
 }
